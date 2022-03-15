@@ -29,3 +29,4 @@ Um pouco sobre Aninha:
 </div>
 
 
+![Snake animation](https://github.com/ArthurSouto/ArthurSouto/blob/output/github-contribution-grid-snake.svg)  
