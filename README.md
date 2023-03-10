@@ -1,23 +1,20 @@
-## Ana Luisa (Aninha para os intimos)
-### Eai galera 👋
-
+## Ana Goes
 
 Um pouco sobre Aninha:
 
-- 🧭 Gosto de conhecer lugares por SP;
-- 🌭 Amo massas, especialmente pizza;
-- 😎 Humor e piadocas é comigo mesma;
+- Estudante na Inteli - Instituto de Tecnologia e liderança
+- Técnica em Desnevolvimento de Sistemas
 - 👩‍💻 Programar é um hobby, montar um banco de dados é uma paixão;
-- 🎶 Ouvir música é um dom.
-- 📚 Aninha + livro = almas gêmeas.
 
-### Programas que estou estudando e gosto:
+### Estudando ativamente:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/>
-          
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>
 
+</div>
+<br/><br/>
 
 
 <div>
