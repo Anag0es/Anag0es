@@ -3,7 +3,7 @@
 Um pouco sobre Aninha:
 
 - Estudante na Inteli - Instituto de Tecnologia e liderança
-- Técnica em Desnevolvimento de Sistemas
+- Técnica em Desenvolvimento de Sistemas
 - 👩‍💻 Programar é um hobby, montar um banco de dados é uma paixão;
 
 ### Estudando ativamente:
