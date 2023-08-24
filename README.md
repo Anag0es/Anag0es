@@ -28,16 +28,10 @@ Adoro fazer novas conexões e colaborar com outros entusiastas da tecnologia. Vo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## Obrigado por Visitar! 🙌
-Obrigado por dar uma olhada no meu perfil! Estou ansioso para continuar crescendo e aprendendo neste incrível campo da tecnologia.
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anag0es&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
+## Obrigado por Visitar! 🙌
+Obrigado por dar uma olhada no meu perfil! Estou ansioso para continuar crescendo e aprendendo neste incrível campo da tecnologia.
