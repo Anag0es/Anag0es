@@ -1,17 +1,12 @@
 
 # 💫 Sobre Mim:
-Olá! Eu sou Ana Luisa Goes, um entusiasta da tecnologia apaixonado por explorar e aprender novas áreas no vasto mundo da computação. Abaixo, compartilho um pouco sobre quem sou e minhas paixões no mundo da tecnologia.
+Olá! Eu sou Ana Luisa Goes, um entusiasta da tecnologia apaixonado por explorar e aprender novas áreas no vasto mundo do back end e inteligência artificial. Abaixo, compartilho um pouco sobre quem sou e minhas paixões no mundo da tecnologia.
 
 ## Minhas Paixões 🚀
 Desde que entrei no mundo da tecnologia, descobri um amor por várias áreas, incluindo:
-
 - Desenvolvimento Back-end: Adoro trabalhar nos bastidores, criando lógica e estrutura para aplicativos e sistemas.
 - Bancos de Dados: A construção e otimização de bancos de dados para armazenar e recuperar informações é algo que me intriga.
-- Programação como Hobby: Passo meu tempo livre programando projetos pessoais e explorando novas linguagens e tecnologias.
-
-## O Que Você Pode Encontrar Aqui? 📚
-Neste repositório, você encontrará uma variedade de projetos e experimentos que refletem minha jornada de aprendizado e exploração. Desde pequenos scripts até projetos mais complexos, estou sempre buscando aprender e compartilhar.
-
+- Inteligência Artificial: Descobrir como otimizar as tarefas do dia a dia e estudar os ramos da IA.
 
 ## Contato 📫
 Adoro fazer novas conexões e colaborar com outros entusiastas da tecnologia. Você pode entrar em contato comigo através dessas redes, para discussões, colaborações ou apenas para dizer olá!
