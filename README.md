@@ -23,6 +23,7 @@ Adoro fazer novas conexões e colaborar com outros entusiastas da tecnologia. Vo
 
 ## Estudando Atualmente 💻
 Estou sempre em busca de aprender e expandir meu conhecimento. Atualmente, estou estudando:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
